@@ -1,0 +1,16 @@
+#+TITLE: Pocket Notational Velocity
+
+Portable scripts for implementing nv
+
+* Todo
+  + [ ] Gather notes
+  + [ ] Read fzf manual
+
+* Random notes
+
+  Notational Velocity is a wonderful Mac OS X note taking app with a simple design
+n 
+  + Original (last updated 2011): [[http://notational.net/][Notation Velocity]] ( github: [[https://github.com/scrod/nv][scrod/nv]] )
+  + Brett Terpstra fork [[http://brettterpstra.com/projects/nvalt/][nvALT]] is well maintained
+  + [[https://jblevins.org/projects/deft/][Deft]] - Emacs mode implementation
+
